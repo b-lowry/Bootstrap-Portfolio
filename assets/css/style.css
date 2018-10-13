@@ -21,9 +21,18 @@
   color: #ffffff;
 }
 
-#portfolio-image {
-  width: 200px;
-  height: 200px;
+#work h3 {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
 }
 
 
